@@ -10,15 +10,23 @@ const customerSchema = new mongoose.Schema({
     type: String,
     unique: true,
   },
-  phoneNumber: {
-    type: Number,
-    required: true,
-  },
-  city: String,
-  country: {
+  // role untuk menentukan siapa yang ada di web
+  role: {
     type: String,
-    required: true,
-    default: "Indonesia",
+    // enum diluar enum tidak bisa
+    enum: ['admin','user'],
+    default: 'user'
+  },
+  active: {
+    type: Boolean,
+    default: true,
+  },
+  photo: {
+    type: String,
+    default: "user-default.jpg",
+  },
+  password: {
+    type: String,
   },
 });
 
