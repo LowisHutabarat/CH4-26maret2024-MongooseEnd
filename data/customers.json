@@ -1,0 +1,65 @@
+[
+  {
+    "_id": "65fda57afc7ca78c65d0f115",
+    "name": "Perry Navarro",
+    "email": "perrynavarro@assistia.com",
+    "role": "user",
+    "active": true,
+    "photo": "user-3.jpg",
+    "password": ""
+  },
+  {
+    "_id": "65fda57a7fb1a8bc41678b29",
+    "name": "Valarie Hale",
+    "email": "valariehale@assistia.com",
+    "role": "user",
+    "active": false,
+    "photo": "user-5.jpg",
+    "password": ""
+  },
+  {
+    "_id": "65fda57a75ff715a07bbc711",
+    "name": "Marquez Dale",
+    "email": "marquezdale@assistia.com",
+    "role": "user",
+    "active": false,
+    "photo": "user-4.jpg",
+    "password": ""
+  },
+  {
+    "_id": "65fda57a204313128fa41769",
+    "name": "Patton Rice",
+    "email": "pattonrice@assistia.com",
+    "role": "admin",
+    "active": false,
+    "photo": "user-2.jpg",
+    "password": ""
+  },
+  {
+    "_id": "65fda57af683b5f59b25f7d9",
+    "name": "Hardy Pitts",
+    "email": "hardypitts@assistia.com",
+    "role": "admin",
+    "active": false,
+    "photo": "user-1.jpg",
+    "password": ""
+  },
+  {
+    "_id": "65fda57a014e5156f2d887bc",
+    "name": "Julia Hodge",
+    "email": "juliahodge@assistia.com",
+    "role": "admin",
+    "active": false,
+    "photo": "user-2.jpg",
+    "password": ""
+  },
+  {
+    "_id": "65fda57a9e0f7ecefed7b187",
+    "name": "Valenzuela Carter",
+    "email": "valenzuelacarter@assistia.com",
+    "role": "admin",
+    "active": true,
+    "photo": "user-1.jpg",
+    "password": ""
+  }
+]
